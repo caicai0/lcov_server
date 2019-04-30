@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+node_modules
+uploads
+/public
+tmp
+/info
+/测试覆盖.iml
+/package-lock.json
